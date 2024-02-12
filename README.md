@@ -14,19 +14,22 @@ To run ChatApp locally, follow these steps:
 
 ```bash
 git clone https://github.com/LoydNgei/DevCord
-
+```
 
 2. Navigate to the project directory:
 
 ```bash
 cd DevCord
-
+```
 
 
 3. Install the dependencies:
 
-```npm install
-
+```bash
+npm install
+```
 4. Start the server:
 
-```npm start
+```bash
+npm start
+```
